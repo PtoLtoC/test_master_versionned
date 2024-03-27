@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Master_sales_dataset.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
